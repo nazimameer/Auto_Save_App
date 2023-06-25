@@ -8,7 +8,7 @@ export const navLinks = [
   },
   {
     id: "get started",
-    title: "Get Started",
+    title: "Get Started", 
     url: "/home",
   },
 ];
